@@ -14,9 +14,10 @@ This is a personal challenge to write, update, and commit **one Python file ever
 ```
 📁 100-days-python
  ├── 📁 Day01
- │    ├── Day01_HelloWorld.py
+ │    ├── Intro_to_python.py
  │    └── README.md
  ├── 📁 Day02
+      └── Intro_to_datatypes.py
  │    └── README.md
  ...
  ├── 📁 Day100
